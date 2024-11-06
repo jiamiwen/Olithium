@@ -1,0 +1,31 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/dxc/桌面/Olithium",
+            "binaryPath": "/home/dxc/桌面/Olithium/PQCgenKAT_sign5aes",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/dxc/桌面/Olithium",
+            "binaryPath": "/home/dxc/桌面/Olithium/timetest",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/dxc/桌面/Olithium",
+            "binaryPath": "/home/dxc/桌面/Olithium/PQCgenKAT_sign",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/dxc/桌面/Olithium",
+            "binaryPath": "/home/dxc/桌面/Olithium/Dilithium_test",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/dxc/桌面/Olithium",
+            "binaryPath": "/home/dxc/桌面/Olithium/Olithium_test",
+            "binaryArgs": []
+        }
+    ],
+    "makefile.makefilePath": "/home/dxc/桌面/Olithium",
+    "makefile.makeDirectory": "/home/dxc/桌面/Olithium"
+}
